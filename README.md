@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+# --b--capstone-project-code-louisivlle-my-project-for-humana
+=======
+# --b--capstone-project-code-louisivlle-my-project-for-humana
+>>>>>>> e2d6e102f4666477efd4ddf30a88398de949a6d8
+Basically, the purpose of this code is as follows (and are facilitated in the remaining sentences). Basically, this is my document to hopefully help me get a job at humana. Basically, it is a simple website and that is how I like it, this should have one green square. Basically, other than a few people most people are decent honest people, you all should hire me I am a great friend I am great at coding, and I am great at virtually everything, this job is really just a job to have a job however you should note that I am very skilled and very talented, hopefully this job helps me to be more financially successful hopefully in so faclitating that that would help me to then help others, basically, Call 502-617-0541 (and if no one answers leave a message) and e-mail SONcerely08@gmail.com, I believe this meets the three requiremnts for the class not perfect I am around people with unhealthy bondaries, I have to fix the form at the bottom however please provide your email the page does fade in the one rectangle, basically, the five commits are that I deleated files in github. Basically, thanks, GOD bless, , b, PAUL JORDAN NANEY
